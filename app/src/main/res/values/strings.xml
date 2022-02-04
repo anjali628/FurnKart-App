@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FurnKart App</string>
+    <string name="et_email_login">Email</string>
+    <string name="et_password_login">Password</string>
+    <string name="forgot_password_login">Forgot your password?</string>
+    <string name="tv_login">Login</string>
+</resources>
